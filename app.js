@@ -43,4 +43,11 @@ console.log('Limite ', argv.limite);
     node_modules/
     tablas/*.txt
 
+
+    Luego ponemos 
+    git add .
+
+    y se coloca en verde  para hacerle un commit
+
+    git commit -m "Commit inicial"
  */
